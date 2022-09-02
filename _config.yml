@@ -1,5 +1,5 @@
 # Site
-name: "Mediumish"
+name: "Ali's Stories"
 title: "Ali's blog"
 description: "My space to talk"
 logo: 'assets/images/logo.png'
@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: ''
 disqus: ''
-mailchimp-list: ''
+# mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -17,7 +17,7 @@ authors:
     name: Ali
     display_name: Ali    
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    # gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: alilarag@gmail.com
     web: https://www.alilara.xyz
     twitter: https://twitter.com/aliglara
