@@ -1,7 +1,7 @@
 # Site
 name: "Ali's Stories"
 title: "Ali's blog"
-description: "My space to talk"
+description: "My space to publish my ideas, answers to questions from friends, relatives and coworkers that I think is worthy to share. Hope it helps!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
