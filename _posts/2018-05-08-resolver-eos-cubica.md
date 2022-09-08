@@ -32,7 +32,7 @@ $$
 \end{align*}
 $$
 
-**Paso 1**. Definir una funcion en Python para estimar 
+**Paso 1**. Definir una funcion en Python para estimar
 
 ```python
 
@@ -65,8 +65,7 @@ Esta función tiene como salida el objeto polinómico de [numpy](https://numpy.o
 
 El gráfico del comportamiento de la ecuacion de estado de Peng-Robinson
 
-![EOS Peng-Robinson](https://ik.imagekit.io/x860v02j7/figura-zvalues_WAJJwfHUC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662416424323
-)
+![EOS Peng-Robinson](https://ik.imagekit.io/x860v02j7/figura-zvalues_gdnyHKZ6V.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662662260199)
 
 **Paso 3**. Presentacion de resultados
 
