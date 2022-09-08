@@ -8,9 +8,9 @@ image: assets/images/cubic-math.jpeg
 # beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
 # toc: true
 ---
-Es muy frecuente tener que calcular el factor de compresibilidad (Z) de un gas, empleando ecuaciones de estado cúbicas. En este post, les muestro una manera sencilla paraobtener  los valores de Z que tienen significado físico.
+Es muy frecuente tener que calcular el factor de compresibilidad (Z) de un gas, empleando ecuaciones de estado cúbicas. En este post, les muestro una manera sencilla para obtener  los valores de Z que tienen significado físico.
 
-    Como ejemplo, suponga que desea determinar las raíces del factor de compresibilidad empleando la ecuación generalizada de Peng-Robinson para una sustancia que se encuentra a una temperatura reducida (Tr) de 0.7, Presion reducida (Pr) igual a 0.1 y un factor acéntrico de 0.09.
+Como ejemplo, suponga que desea determinar las raíces del factor de compresibilidad empleando la ecuación generalizada de Peng-Robinson para una sustancia que se encuentra a una temperatura reducida (Tr) de 0.7, Presion reducida (Pr) igual a 0.1 y un factor acéntrico de 0.09.
 
 ## Solución
 
