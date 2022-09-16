@@ -27,7 +27,7 @@ En mi opinión, los cambios significativos empiezan a ocurrir cuando estas en un
 
 ## ¿Cómo romper el plató del nivel intermedio avanzado?
 
-La comunicación efectiva del ingles en un ambiente profesional no se alcanza mágicamente sino por etapas a medidas que te inmerses en el idioma. Ides de ¿Cómo empezar?
+La comunicación efectiva del ingles en un ambiente profesional no se alcanza mágicamente sino por etapas a medidas que te inmerses en el idioma. Ideas de ¿Cómo empezar?
 
 1. Visita [ESL Cyber Listening Lab](https://www.esl-lab.com/intermediate/) y realiza quizzes de nivel intermedio.
 2. Puedes practicar listening en [EnglishCentral](https://www.englishcentral.com/browse/videos), escuchando videos de nivel académico. (Si! en el ambiente profesional, las personas usan ingles académico)
