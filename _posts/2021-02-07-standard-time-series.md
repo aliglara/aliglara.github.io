@@ -4,7 +4,7 @@ title:  "¿Es realmente necesario normalizar o estandarizar datos de series de t
 author: ali
 categories: [ Machine learning, Preprocessing, tutorial ]
 tags: [happycoding, python]
-image: https://ik.imagekit.io/x860v02j7/standarization-img_1F6oYefra.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662109049334
+image: "https://ik.imagekit.io/x860v02j7/standarization-img_1F6oYefra.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662109049334"
 description: "Brief comments about standarization of a time-serie dataset."
 ---
 

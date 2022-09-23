@@ -3,7 +3,7 @@ layout: post
 title:  "Una manera de aprender inglés"
 author: ali
 categories: [ Coaching, ingles ]
-image: https://ik.imagekit.io/x860v02j7/interior-wall-red-flag-usa-american-flag-596635-pxhere.com_UtiAkEAf-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1663273066692
+image: "https://ik.imagekit.io/x860v02j7/interior-wall-red-flag-usa-american-flag-596635-pxhere.com_UtiAkEAf-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1663273066692"
 description: "Pasos para mejorar tu inglés"
 
 ---

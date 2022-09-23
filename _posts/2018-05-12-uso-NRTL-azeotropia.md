@@ -4,7 +4,7 @@ title:  "Ejemplo de determinacion de punto azeotropico"
 author: ali
 categories: [ termodinamica, tutorial, NRTL ]
 tags: [scipy, python]
-image: https://ik.imagekit.io/x860v02j7/split-ntrl__uLlIciCF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1663423244335
+image: "https://ik.imagekit.io/x860v02j7/split-ntrl__uLlIciCF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1663423244335"
 ---
 En Ingeniería de procesos es común encontrar disoluciones de compuestos no ideales. Por lo cual para la determinación de las propiedades en equilibrio de fases es necesario emplear alguna modificación de la condición de equilibrio que tome en cuenta el comportamiento no ideal.
 
