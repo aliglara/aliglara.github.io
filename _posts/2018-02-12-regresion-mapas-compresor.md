@@ -4,7 +4,7 @@ title:  "Regresión de mapas de compresor centrífugo usando Python"
 author: ali
 categories: [ Regresion, Scipy, tutorial ]
 tags: [happycoding, python]
-image: https://ik.imagekit.io/x860v02j7/wheel-infinity-circle-math-equation-brand-product-font-illustration-diagram-school-organ-calculation-mathematical-mathematic-1282905_40ppPGGDP.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1662117276909
+image: "https://ik.imagekit.io/x860v02j7/wheel-infinity-circle-math-equation-brand-product-font-illustration-diagram-school-organ-calculation-mathematical-mathematic-1282905_40ppPGGDP.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1662117276909"
 
 ---
 En este post presento una manera de realizar la regresión de un mapa de compresor centrífugo mediante una polinomio multivariable de segundo grado empleando Scipy.

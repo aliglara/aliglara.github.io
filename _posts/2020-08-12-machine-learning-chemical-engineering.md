@@ -3,7 +3,7 @@ layout: post
 title:  "Incluir machine learning en curricula de Ingenieria Química"
 author: ali
 categories: [ Machine learning, Opinion ]
-image: https://ik.imagekit.io/x860v02j7/crisp-iq_Gc3tyh93V.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662111843468
+image: "https://ik.imagekit.io/x860v02j7/crisp-iq_Gc3tyh93V.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662111843468"
 featured: true
 hidden: true
 ---
